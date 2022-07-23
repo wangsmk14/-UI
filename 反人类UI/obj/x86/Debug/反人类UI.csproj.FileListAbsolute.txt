@@ -1,0 +1,24 @@
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\obj\x86\Debug\反人类UI.Form1.resources
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\obj\x86\Debug\反人类UI.Properties.Resources.resources
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\obj\x86\Debug\反人类UI.csproj.GenerateResource.Cache
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\bin\Debug\反人类UI.exe
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\bin\Debug\反人类UI.pdb
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\obj\x86\Debug\反人类UI.exe
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\obj\x86\Debug\反人类UI.pdb
+C:\Users\mtjc\AppData\Local\Temporary Projects\反人类UI\obj\x86\Debug\反人类UI.Form2.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.exe
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.pdb
+D:\vs项目\反人类UI\反人类UI\bin\Debug\反人类UI.exe
+D:\vs项目\反人类UI\反人类UI\bin\Debug\反人类UI.pdb
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.Properties.Resources.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.csproj.GenerateResource.Cache
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.register.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.uat.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.likes.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.nr.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.rop.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.csprojResolveAssemblyReference.cache
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.winned.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.start.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.Form2.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Debug\反人类UI.head.resources

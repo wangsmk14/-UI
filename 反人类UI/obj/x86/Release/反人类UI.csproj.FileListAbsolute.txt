@@ -1,0 +1,8 @@
+D:\vs项目\反人类UI\反人类UI\bin\Release\反人类UI.exe
+D:\vs项目\反人类UI\反人类UI\bin\Release\反人类UI.pdb
+D:\vs项目\反人类UI\反人类UI\obj\x86\Release\反人类UI.register.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Release\反人类UI.uat.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Release\反人类UI.Properties.Resources.resources
+D:\vs项目\反人类UI\反人类UI\obj\x86\Release\反人类UI.csproj.GenerateResource.Cache
+D:\vs项目\反人类UI\反人类UI\obj\x86\Release\反人类UI.exe
+D:\vs项目\反人类UI\反人类UI\obj\x86\Release\反人类UI.pdb
